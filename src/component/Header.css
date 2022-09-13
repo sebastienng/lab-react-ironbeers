@@ -1,0 +1,14 @@
+.headerDiv {
+  background-color: rgb(24, 95, 176);
+  height: 5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+  gap: 2rem;
+}
+
+.link-header {
+  color: white;
+}

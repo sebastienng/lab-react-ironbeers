@@ -1,0 +1,24 @@
+.all-beers-display {
+}
+.all-beers-display img {
+  max-height: 10rem;
+}
+.beer-infos a {
+  border: 1px solid gray;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.beer-detail-left {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.beer-detail-right h3 {
+  text-align: left;
+  margin: 0;
+}
